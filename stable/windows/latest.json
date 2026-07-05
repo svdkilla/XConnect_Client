@@ -11,7 +11,7 @@
     "minimum_supported_version": "0.1.0",
     "mandatory": false,
     "title": "XConnect VPN 0.1.1",
-    "notes": "News feed, cabinet news API, and update banner.",
+    "notes": "Улучшена поддержка sing-box, авто обновления, новости.",
     "release_page": "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.1.1",
     "artifacts": [
       {
