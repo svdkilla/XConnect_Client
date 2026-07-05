@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "xconnect-vpn",
+  "channel": "stable",
+  "generated_at": "2026-07-05T00:00:00Z",
+  "manifests": {
+    "pc": "https://raw.githubusercontent.com/svdkilla/XConnect_Client/main/stable/pc/latest.json",
+    "windows": "https://raw.githubusercontent.com/svdkilla/XConnect_Client/main/stable/windows/latest.json",
+    "linux": "https://raw.githubusercontent.com/svdkilla/XConnect_Client/main/stable/linux/latest.json",
+    "macos": "https://raw.githubusercontent.com/svdkilla/XConnect_Client/main/stable/macos/latest.json",
+    "android": "https://raw.githubusercontent.com/svdkilla/XConnect_Client/main/stable/android/latest.json",
+    "ios": "https://raw.githubusercontent.com/svdkilla/XConnect_Client/main/stable/ios/latest.json",
+    "web": "https://raw.githubusercontent.com/svdkilla/XConnect_Client/main/stable/web/latest.json"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/svdkilla/XConnect_Client/main/schema/update-manifest.schema.json",
+  "title": "XConnect Update Manifest",
+  "type": "object",
+  "required": ["schema_version", "app_id", "platform", "channel", "enabled", "latest"],
+  "properties": {
+    "schema_version": { "type": "integer", "const": 1 },
+    "app_id": { "type": "string", "const": "xconnect-vpn" },
+    "platform": {
+      "type": "string",
+      "enum": ["pc", "windows", "linux", "macos", "android", "ios", "web"]
+    },
+    "channel": { "type": "string", "enum": ["stable", "beta", "dev"] },
+    "enabled": { "type": "boolean" },
+    "latest": {
+      "type": "object",
+      "required": [
+        "version",
+        "build",
+        "released_at",
+        "minimum_supported_version",
+        "mandatory",
+        "title",
+        "notes",
+        "release_page",
+        "artifacts"
+      ],
+      "properties": {
+        "version": { "type": "string" },
+        "build": { "type": "integer", "minimum": 1 },
+        "released_at": { "type": "string", "format": "date-time" },
+        "minimum_supported_version": { "type": "string" },
+        "mandatory": { "type": "boolean" },
+        "title": { "type": "string" },
+        "notes": { "type": "string" },
+        "release_page": { "type": "string", "format": "uri" },
+        "artifacts": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["type", "arch", "url", "sha256", "size"],
+            "properties": {
+              "type": { "type": "string" },
+              "arch": { "type": "string" },
+              "url": { "type": "string", "format": "uri" },
+              "sha256": { "type": ["string", "null"] },
+              "size": { "type": ["integer", "null"], "minimum": 0 }
+            }
+          }
+        }
+      }
+    }
+  }
+}
