@@ -25,4 +25,5 @@ Current manifests are prepared for:
 - `ios`
 - `web`
 
-Release artifacts should be uploaded to GitHub Releases using tags like `v0.1.0`.
+Windows artifacts are currently stored in `artifacts/v0.1.0/windows/` and are served through GitHub raw URLs.
+Future production releases can move large binaries to GitHub Releases without changing the manifest shape.
