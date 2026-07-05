@@ -5,21 +5,21 @@
   "channel": "stable",
   "enabled": true,
   "latest": {
-    "version": "0.1.1",
-    "build": 2,
-    "released_at": "2026-07-05T20:53:49Z",
+    "version": "0.1.2",
+    "build": 3,
+    "released_at": "2026-07-05T21:44:10Z",
     "minimum_supported_version": "0.1.0",
     "mandatory": false,
-    "title": "XConnect VPN 0.1.1",
-    "notes": "Desktop PC alias manifest. Currently points to the Windows x64 build with news and update banner.",
-    "release_page": "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.1.1",
+    "title": "XConnect VPN 0.1.2",
+    "notes": "Desktop PC alias manifest. AUTO servers now ping all dependency nodes and use the best reachable result.",
+    "release_page": "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.1.2",
     "artifacts": [
       {
         "type": "zip",
         "arch": "x64",
-        "url": "https://raw.githubusercontent.com/svdkilla/XConnect_Client/main/artifacts/v0.1.1/windows/xconnect-vpn-windows-x64.zip",
-        "sha256": "2494a8d9644840f1f889819dae290ef88da36013f51e62af05c9a947ff5048e7",
-        "size": 42244670
+        "url": "https://raw.githubusercontent.com/svdkilla/XConnect_Client/main/artifacts/v0.1.2/windows/xconnect-vpn-windows-x64.zip",
+        "sha256": "425e040b3649a834969b39314962a9b9260abe451700ce60379101cc7916fe3d",
+        "size": 42251489
       }
     ]
   }
