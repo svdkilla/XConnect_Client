@@ -2,7 +2,7 @@
   "schema_version": 1,
   "app_id": "xconnect-vpn",
   "channel": "stable",
-  "generated_at": "2026-07-05T23:32:30Z",
+  "generated_at": "2026-07-05T23:53:55Z",
   "manifests": {
     "pc": "https://raw.githubusercontent.com/svdkilla/XConnect_Client/main/stable/pc/latest.json",
     "windows": "https://raw.githubusercontent.com/svdkilla/XConnect_Client/main/stable/windows/latest.json",
