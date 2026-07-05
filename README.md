@@ -25,5 +25,5 @@ Current manifests are prepared for:
 - `ios`
 - `web`
 
-Windows artifacts are currently stored in `artifacts/v0.1.0/windows/` and are served through GitHub raw URLs.
+Windows and Android ARM artifacts are currently stored in `artifacts/v0.1.0/` and are served through GitHub raw URLs.
 Future production releases can move large binaries to GitHub Releases without changing the manifest shape.
