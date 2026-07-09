@@ -5,20 +5,20 @@
   "channel": "stable",
   "enabled": true,
   "latest": {
-    "version": "0.1.5",
+    "version": "0.1.7",
     "build": 6,
     "released_at": "2026-07-05T23:53:55Z",
-    "minimum_supported_version": "0.1.0",
+    "minimum_supported_version": "0.1.5",
     "mandatory": false,
-    "title": "XConnect VPN 0.1.5",
-    "notes": "Updater now waits for the Windows helper handshake before closing the app, uses the absolute PowerShell path, and writes a clear update log if restart cannot begin.",
-    "release_page": "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.1.5",
+    "title": "XConnect VPN 0.1.7",
+    "notes": "Tun режим, раздельное туннелирование.",
+    "release_page": "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.1.7",
     "artifacts": [
       {
         "type": "zip",
         "arch": "x64",
-        "url": "https://raw.githubusercontent.com/svdkilla/XConnect_Client/main/artifacts/v0.1.5/windows/xconnect-vpn-windows-x64.zip",
-        "sha256": "b421b550d68dccd3902a9bf13cd0dd53ae8c700825e70952aa8b8307908da7a7",
+        "url": "https://raw.githubusercontent.com/svdkilla/XConnect_Client/main/artifacts/v0.1.7/windows/xconnect-vpn-windows-x64.zip",
+        "sha256": "sha256:738425737b9ca2393bf53872f09f2bae17f61566d66721318a39b4a48748f839",
         "size": 42344466
       }
     ]
