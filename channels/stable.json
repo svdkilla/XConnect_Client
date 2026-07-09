@@ -1,15 +1,22 @@
 {
-  "schema_version": 1,
-  "app_id": "xconnect-vpn",
-  "channel": "stable",
-  "generated_at": "2026-07-05T23:53:55Z",
-  "manifests": {
-    "pc": "https://raw.githubusercontent.com/svdkilla/XConnect_Client/main/stable/pc/latest.json",
-    "windows": "https://raw.githubusercontent.com/svdkilla/XConnect_Client/main/stable/windows/latest.json",
-    "linux": "https://raw.githubusercontent.com/svdkilla/XConnect_Client/main/stable/linux/latest.json",
-    "macos": "https://raw.githubusercontent.com/svdkilla/XConnect_Client/main/stable/macos/latest.json",
-    "android": "https://raw.githubusercontent.com/svdkilla/XConnect_Client/main/stable/android/latest.json",
-    "ios": "https://raw.githubusercontent.com/svdkilla/XConnect_Client/main/stable/ios/latest.json",
-    "web": "https://raw.githubusercontent.com/svdkilla/XConnect_Client/main/stable/web/latest.json"
-  }
+    "platform":  "windows",
+    "channel":  "stable",
+    "latest":  {
+                   "version":  "0.1.6",
+                   "build":  7,
+                   "title":  "v0.1.6",
+                   "notes":  "Реализован TUN, Split-tunnel",
+                   "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.1.6",
+                   "released_at":  "2026-07-09T12:19:46.5314937Z",
+                   "mandatory":  false,
+                   "artifacts":  [
+                                     {
+                                         "type":  "zip",
+                                         "arch":  "x64",
+                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.1.6/XConnectVPN-0.1.6.zip",
+                                         "sha256":  "2373c203426a45e2e894f2382abb69b02e0381dbd1d0d2eac37692bc1b7b1974",
+                                         "size":  45625138
+                                     }
+                                 ]
+               }
 }
