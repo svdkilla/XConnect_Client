@@ -1,0 +1,30 @@
+{
+    "platform":  "windows",
+    "channel":  "stable",
+    "enabled":  true,
+    "latest":  {
+                   "version":  "0.1.8",
+                   "build":  3,
+                   "title":  "v0.1.8",
+                   "notes":  "Чтото точно да изменилось... Но что??",
+                   "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.1.8",
+                   "released_at":  "2026-07-13T19:56:32.8060682Z",
+                   "mandatory":  false,
+                   "artifacts":  [
+                                     {
+                                         "type":  "zip",
+                                         "arch":  "x64",
+                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.1.8/XConnectVPN-0.1.8.zip",
+                                         "sha256":  "9f14c2d980fe3ea9880cbf50a05798f16c12937b0524d4a5d7d00f3a03942ec9",
+                                         "size":  42919607
+                                     },
+                                     {
+                                         "type":  "exe",
+                                         "arch":  "x64",
+                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.1.8/XConnectVPNInstaller-0.1.8.exe",
+                                         "sha256":  "8e8b210cfb7e0e59f7b02d00c2627ae64b24cf5fa7d4c2521cb8b36bd1595f0c",
+                                         "size":  43070464
+                                     }
+                                 ]
+               }
+}
