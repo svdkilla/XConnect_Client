@@ -1,22 +1,8 @@
 {
-    "platform":  "windows",
     "channel":  "stable",
-    "latest":  {
-                   "version":  "0.1.7",
-                   "build":  1,
-                   "title":  "v0.1.7",
-                   "notes":  "Починил TUN, добавил split-tunnel",
-                   "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.1.7",
-                   "released_at":  "2026-07-09T12:39:18.8319470Z",
-                   "mandatory":  false,
-                   "artifacts":  [
-                                     {
-                                         "type":  "zip",
-                                         "arch":  "x64",
-                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.1.7/XConnectVPN-0.1.7.zip",
-                                         "sha256":  "738425737b9ca2393bf53872f09f2bae17f61566d66721318a39b4a48748f839",
-                                         "size":  88343937
-                                     }
-                                 ]
-               }
+    "updated":  "2026-07-13T19:56:32.8060682Z",
+    "manifests":  {
+                      "windows":  "https://raw.githubusercontent.com/svdkilla/XConnect_Client/main/channels/windows.json",
+                      "android":  "https://raw.githubusercontent.com/svdkilla/XConnect_Client/main/channels/android.json"
+                  }
 }
