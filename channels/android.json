@@ -3,20 +3,20 @@
     "channel":  "stable",
     "enabled":  true,
     "latest":  {
-                   "version":  "0.1.9",
-                   "build":  4,
-                   "title":  "v0.1.9",
-                   "notes":  "PC: баг WebView, статистика, оптимизация, сплит туннель. Android: гео ройтинг, кнопки пинга и обновления, пуши",
-                   "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.1.9",
-                   "released_at":  "2026-07-14T02:08:31.5593226Z",
+                   "version":  "0.2.0",
+                   "build":  5,
+                   "title":  "v0.2.0",
+                   "notes":  "Kill switch, фолбэк на сервер, ландшафт, иконка и сплеш, прогресс обновления",
+                   "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.0",
+                   "released_at":  "2026-07-14T03:26:53.8107897Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "apk",
                                          "arch":  "arm64-v8a",
-                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.1.9/XConnectVPN-0.1.9.apk",
-                                         "sha256":  "8cefb9fe19cadbb765f1c3dfc9f9ceb84a21403520d25167472e7d1207826e1b",
-                                         "size":  122791764
+                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.0/XConnectVPN-0.2.0.apk",
+                                         "sha256":  "8f678660acfd5855d17545bd4357139b24a56e953824b41e482d318513794e88",
+                                         "size":  122951396
                                      }
                                  ]
                }
