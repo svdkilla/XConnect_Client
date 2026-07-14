@@ -3,27 +3,27 @@
     "channel":  "stable",
     "enabled":  true,
     "latest":  {
-                   "version":  "0.1.8",
-                   "build":  3,
-                   "title":  "v0.1.8",
-                   "notes":  "Чтото точно да изменилось... Но что??",
-                   "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.1.8",
-                   "released_at":  "2026-07-13T19:56:32.8060682Z",
+                   "version":  "0.1.9",
+                   "build":  4,
+                   "title":  "v0.1.9",
+                   "notes":  "PC: баг WebView, статистика, оптимизация, сплит туннель. Android: гео ройтинг, кнопки пинга и обновления, пуши",
+                   "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.1.9",
+                   "released_at":  "2026-07-14T02:08:31.5593226Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
-                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.1.8/XConnectVPN-0.1.8.zip",
-                                         "sha256":  "9f14c2d980fe3ea9880cbf50a05798f16c12937b0524d4a5d7d00f3a03942ec9",
-                                         "size":  42919607
+                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.1.9/XConnectVPN-0.1.9.zip",
+                                         "sha256":  "d513e6533a89decce02d70c852f3d687d21574f66b62b0ab06752d8086cb3aca",
+                                         "size":  42922115
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
-                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.1.8/XConnectVPNInstaller-0.1.8.exe",
-                                         "sha256":  "8e8b210cfb7e0e59f7b02d00c2627ae64b24cf5fa7d4c2521cb8b36bd1595f0c",
-                                         "size":  43070464
+                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.1.9/XConnectVPNInstaller-0.1.9.exe",
+                                         "sha256":  "cc325794a99b8b1ae61ac943e3e002e1b88d77487edb935b5823231591ebf0aa",
+                                         "size":  43073024
                                      }
                                  ]
                }
