@@ -4,26 +4,26 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.1",
-                   "build":  3,
+                   "build":  4,
                    "title":  "v0.2.1",
-                   "notes":  "Локализация, kill-switch, авто переподключение",
+                   "notes":  "Исправление подключения AUTO, отмены TUN-проверки и контраста уведомления логов",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.1",
-                   "released_at":  "2026-07-15T02:44:41.6251109Z",
+                   "released_at":  "2026-07-15T03:17:45.9062824Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPN-0.2.1.zip",
-                                         "sha256":  "d17d559e0dd394427d049e4d1d91b1aa2df69aa33f521f56fc2f555a09cd18a0",
-                                         "size":  42953246
+                                         "sha256":  "cf459a012200a2d3b9ea840d71774e812ae19f14a5547a8b3ce3550f288bdc25",
+                                         "size":  42954764
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPNInstaller-0.2.1.exe",
-                                         "sha256":  "07bfbdd1ca0c9f59f529f1838fafbf0489dbc24a619ef7e37edd1978005124d8",
-                                         "size":  43105792
+                                         "sha256":  "2885467c6102d44457bad956409f3c629b90c2746ee7bf58239876bcbd887f04",
+                                         "size":  43107328
                                      }
                                  ]
                }
