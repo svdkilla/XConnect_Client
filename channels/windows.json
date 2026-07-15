@@ -4,26 +4,26 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.1",
-                   "build":  17,
+                   "build":  18,
                    "title":  "v0.2.1",
-                   "notes":  "Исправлена ложная ошибка TUN-подключения: проверка готовности сначала использует HTTPS по IP без DNS, поэтому рабочий VPN больше не отключается и не перебирает серверы из-за зависшего DNS",
+                   "notes":  "Исправлена проверка TUN: если через виртуальный адаптер уже идет реальный двусторонний трафик, рабочий Xray больше не останавливается из-за тайм-аута служебного HTTPS-адреса",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.1",
-                   "released_at":  "2026-07-15T20:40:39.7763824Z",
+                   "released_at":  "2026-07-15T20:50:57.0771050Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPN-0.2.1.zip",
-                                         "sha256":  "A88F2A9D358ADA16FFDDF8E8C21B47EAB1E93294C567CD63334BDC7044C802D8",
-                                         "size":  51004126
+                                         "sha256":  "F34C17298F9B3249BF7C9D8997937D6CBB4DE7607E33EAD04DBA37D0BA914955",
+                                         "size":  51005109
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPNInstaller-0.2.1.exe",
-                                         "sha256":  "DC54944170973927D535A6A23C1AB116329D678E323E444EAA1B464CDDDF0F3A",
-                                         "size":  51156480
+                                         "sha256":  "5A3EF44AC7D8359FC76B243117F1D338B7AF06DC1DBEC2E96B77794F48D2C429",
+                                         "size":  51157504
                                      }
                                  ]
                }
