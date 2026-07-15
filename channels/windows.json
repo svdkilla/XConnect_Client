@@ -4,26 +4,26 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.1",
-                   "build":  10,
+                   "build":  11,
                    "title":  "v0.2.1",
-                   "notes":  "Прямой Xray TUN, встроенные GeoIP/GeoSite для маршрутизации",
+                   "notes":  "Проверка реального Xray TUN и защита от конфликта с другим VPN",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.1",
-                   "released_at":  "2026-07-15T05:29:30.5361513Z",
+                   "released_at":  "2026-07-15T06:02:10.2357350Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPN-0.2.1.zip",
-                                         "sha256":  "5f8d0dfab5f5f81c92e29a922dfebf0bb453dd5416ca389178df073333618704",
-                                         "size":  50991573
+                                         "sha256":  "4d1b74210bdff3a316ebb0d4de5edd42e7840bb9f86ca75119e9a1abe037b066",
+                                         "size":  50993664
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPNInstaller-0.2.1.exe",
-                                         "sha256":  "5a70e0d40ba44a45e86f158b6ddbee7d01df6069ddaba493bd363d8cdf1e3f3b",
-                                         "size":  51143680
+                                         "sha256":  "33b0d6e157d088e9b227e2b1674ad8da04dc27c2a9ef22fc633c4a7aa4371bda",
+                                         "size":  51145728
                                      }
                                  ]
                }
