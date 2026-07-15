@@ -4,26 +4,26 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.1",
-                   "build":  15,
+                   "build":  16,
                    "title":  "v0.2.1",
-                   "notes":  "Исправлен Windows TUN на системах с несколькими сетевыми интерфейсами: исходящие Xray-соединения привязаны к физическому IPv4 через sendThrough; улучшена диагностика маршрута",
+                   "notes":  "Добавлена кнопка проверки обновлений в разделе О программе; отображаются загрузка, доступная версия, актуальная версия и ошибка проверки",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.1",
-                   "released_at":  "2026-07-15T19:13:50.7930042Z",
+                   "released_at":  "2026-07-15T19:22:24.2723849Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPN-0.2.1.zip",
-                                         "sha256":  "a65e0fa5775f0753a12453b4f7437f2b03c5e72d91b8e18d0bf903c18054192d",
-                                         "size":  51004449
+                                         "sha256":  "13ba7235796684fb05c5ae74908f86d1daef9daaddc144c9c3dd50bc27251dae",
+                                         "size":  51003968
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPNInstaller-0.2.1.exe",
-                                         "sha256":  "ebc058df1e1b63aec5457dd0ad17ecb24cb4ead6770c680626c42fd3d8b39fed",
-                                         "size":  51156992
+                                         "sha256":  "0d9149259c402e57961c212a90d4ffd462c21377bc9bfb81eb8eae7fcc13427d",
+                                         "size":  51156480
                                      }
                                  ]
                }
