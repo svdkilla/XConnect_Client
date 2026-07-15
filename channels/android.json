@@ -4,18 +4,18 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.1",
-                   "build":  6,
+                   "build":  7,
                    "title":  "v0.2.1",
-                   "notes":  "Общее исправление Windows TUN: единый sing-box core для всех поддерживаемых профилей",
+                   "notes":  "Откат Windows VPN core: Xray для VLESS, XHTTP, Reality и других совместимых профилей; восстановлены названия серверов и замер пинга",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.1",
-                   "released_at":  "2026-07-15T03:49:59.8337345Z",
+                   "released_at":  "2026-07-15T04:02:53.6054547Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "apk",
                                          "arch":  "arm64-v8a",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPN-0.2.1.apk",
-                                         "sha256":  "6d84b59d26f8cf7b3d944d78cf28ae2025c843fee96acf26b28c7ed4edcea5d1",
+                                         "sha256":  "be81a20bcadca5099f9e7832a9c61b41f9de26d5293d03ac2c31ff34b73afaed",
                                          "size":  122968086
                                      }
                                  ]
