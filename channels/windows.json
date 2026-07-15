@@ -8,21 +8,21 @@
                    "title":  "v0.2.1",
                    "notes":  "Локализация, kill-switch, авто переподключение",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.1",
-                   "released_at":  "2026-07-15T02:25:50.5880685Z",
+                   "released_at":  "2026-07-15T02:44:41.6251109Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPN-0.2.1.zip",
-                                         "sha256":  "2098c80b093faea7228f573d1c99d73317a41d8e431046b254c9ef665e36623f",
-                                         "size":  42953984
+                                         "sha256":  "d17d559e0dd394427d049e4d1d91b1aa2df69aa33f521f56fc2f555a09cd18a0",
+                                         "size":  42953246
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPNInstaller-0.2.1.exe",
-                                         "sha256":  "a2e9cb5db78df697a789acc98568e1e1ff716b601b538a4e19ea35b2a0fbae14",
+                                         "sha256":  "07bfbdd1ca0c9f59f529f1838fafbf0489dbc24a619ef7e37edd1978005124d8",
                                          "size":  43105792
                                      }
                                  ]
