@@ -4,26 +4,26 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.1",
-                   "build":  13,
+                   "build":  14,
                    "title":  "v0.2.1",
-                   "notes":  "Исправлен TUN: адрес VPN-сервера исключается из туннеля через физический шлюз; исходящие соединения Xray привязаны к физическому интерфейсу; очищен диагностический лог",
+                   "notes":  "Исправлена смена сервера во время подключения без ложного перехода на альтернативный; исправлен Hysteria2 TUN; надежная очистка маршрута сервера; очищены PowerShell-логи",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.1",
-                   "released_at":  "2026-07-15T06:33:35.2701848Z",
+                   "released_at":  "2026-07-15T07:05:16.4089942Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPN-0.2.1.zip",
-                                         "sha256":  "5cb4caf1677bae8b7d4ecb964d4b6b79c2c5c28170d8914ad1674b62b3e51305",
-                                         "size":  51002945
+                                         "sha256":  "f705354fe8f70f1eaa324e03ecdda70aef4b5e7d72de690d5a1d1c6bd8c536f8",
+                                         "size":  51004175
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPNInstaller-0.2.1.exe",
-                                         "sha256":  "c06ed675dca3918898f53497798646ff199c2aab96d25917014e186b3e65a7fd",
-                                         "size":  51155456
+                                         "sha256":  "0572e900f6cb04896b59d9e36a24cfcd43caefcff27d39530834608ba66522df",
+                                         "size":  51156480
                                      }
                                  ]
                }
