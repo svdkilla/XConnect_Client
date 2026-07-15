@@ -3,27 +3,27 @@
     "channel":  "stable",
     "enabled":  true,
     "latest":  {
-                   "version":  "0.2.0",
-                   "build":  5,
-                   "title":  "v0.2.0",
-                   "notes":  "Kill switch, фолбэк на сервер, ландшафт, иконка и сплеш, прогресс обновления",
-                   "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.0",
-                   "released_at":  "2026-07-14T03:26:53.8107897Z",
+                   "version":  "0.2.1",
+                   "build":  2,
+                   "title":  "v0.2.1",
+                   "notes":  "Локализация, kill-switch, авто переподключение",
+                   "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.1",
+                   "released_at":  "2026-07-15T01:01:05.6108318Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
-                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.0/XConnectVPN-0.2.0.zip",
-                                         "sha256":  "f50bbc3fc9f88011ab476f49d66c7ce5eea80321900724bc668e9f27410f5960",
-                                         "size":  42931637
+                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPN-0.2.1.zip",
+                                         "sha256":  "8f472b17363c3e721af3cbfd84b55ab4ea89a99cc48a2238860a92f5a32e3725",
+                                         "size":  42951811
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
-                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.0/XConnectVPNInstaller-0.2.0.exe",
-                                         "sha256":  "05e49d7898200dbc5f0817f34e8b5fcf46493c51db013d659a1b6ea43bd49d44",
-                                         "size":  43082240
+                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPNInstaller-0.2.1.exe",
+                                         "sha256":  "7e3b5e9a257de2f60723cbe26dee845d08c24d1bac1203b8657b54def29d4edd",
+                                         "size":  43102720
                                      }
                                  ]
                }
