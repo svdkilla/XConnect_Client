@@ -4,26 +4,26 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.1",
-                   "build":  14,
+                   "build":  15,
                    "title":  "v0.2.1",
-                   "notes":  "Исправлена смена сервера во время подключения без ложного перехода на альтернативный; исправлен Hysteria2 TUN; надежная очистка маршрута сервера; очищены PowerShell-логи",
+                   "notes":  "Исправлен Windows TUN на системах с несколькими сетевыми интерфейсами: исходящие Xray-соединения привязаны к физическому IPv4 через sendThrough; улучшена диагностика маршрута",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.1",
-                   "released_at":  "2026-07-15T07:05:16.4089942Z",
+                   "released_at":  "2026-07-15T19:13:50.7930042Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPN-0.2.1.zip",
-                                         "sha256":  "f705354fe8f70f1eaa324e03ecdda70aef4b5e7d72de690d5a1d1c6bd8c536f8",
-                                         "size":  51004175
+                                         "sha256":  "a65e0fa5775f0753a12453b4f7437f2b03c5e72d91b8e18d0bf903c18054192d",
+                                         "size":  51004449
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPNInstaller-0.2.1.exe",
-                                         "sha256":  "0572e900f6cb04896b59d9e36a24cfcd43caefcff27d39530834608ba66522df",
-                                         "size":  51156480
+                                         "sha256":  "ebc058df1e1b63aec5457dd0ad17ecb24cb4ead6770c680626c42fd3d8b39fed",
+                                         "size":  51156992
                                      }
                                  ]
                }
