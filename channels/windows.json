@@ -4,26 +4,26 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.1",
-                   "build":  4,
+                   "build":  5,
                    "title":  "v0.2.1",
-                   "notes":  "Исправление подключения AUTO, отмены TUN-проверки и контраста уведомления логов",
+                   "notes":  "Исправление Windows TUN для VLESS XHTTP: единый sing-box core и MTU 1500",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.1",
-                   "released_at":  "2026-07-15T03:17:45.9062824Z",
+                   "released_at":  "2026-07-15T03:41:50.8561405Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPN-0.2.1.zip",
-                                         "sha256":  "cf459a012200a2d3b9ea840d71774e812ae19f14a5547a8b3ce3550f288bdc25",
-                                         "size":  42954764
+                                         "sha256":  "8f1973bf51ba0183f695e5ec6f2be3c0383ee7e2cd9ee00fb5375652ad9170b2",
+                                         "size":  42954104
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPNInstaller-0.2.1.exe",
-                                         "sha256":  "2885467c6102d44457bad956409f3c629b90c2746ee7bf58239876bcbd887f04",
-                                         "size":  43107328
+                                         "sha256":  "4a8bcb2cddd4bdda7d26baa0b234da7b93fbbc050663c4a25ed64767259db84a",
+                                         "size":  43106304
                                      }
                                  ]
                }
