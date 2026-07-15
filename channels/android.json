@@ -4,19 +4,19 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.1",
-                   "build":  2,
+                   "build":  3,
                    "title":  "v0.2.1",
                    "notes":  "Локализация, kill-switch, авто переподключение",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.1",
-                   "released_at":  "2026-07-15T01:01:05.6108318Z",
+                   "released_at":  "2026-07-15T02:25:50.5880685Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "apk",
                                          "arch":  "arm64-v8a",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPN-0.2.1.apk",
-                                         "sha256":  "1a4412acfd47f364cef676a06adc681e51e1e89fa0a8f4d7dd265385c867a4a0",
-                                         "size":  122968074
+                                         "sha256":  "9b3de2070ac78e7c48dd6e6a1fd30b1966ab5918c22bec5ea1d829c228c6cc94",
+                                         "size":  122968086
                                      }
                                  ]
                }
