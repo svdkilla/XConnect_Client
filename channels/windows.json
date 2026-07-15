@@ -4,25 +4,25 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.1",
-                   "build":  16,
+                   "build":  17,
                    "title":  "v0.2.1",
-                   "notes":  "Добавлена кнопка проверки обновлений в разделе О программе; отображаются загрузка, доступная версия, актуальная версия и ошибка проверки",
+                   "notes":  "Исправлена ложная ошибка TUN-подключения: проверка готовности сначала использует HTTPS по IP без DNS, поэтому рабочий VPN больше не отключается и не перебирает серверы из-за зависшего DNS",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.1",
-                   "released_at":  "2026-07-15T19:22:24.2723849Z",
+                   "released_at":  "2026-07-15T20:40:39.7763824Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPN-0.2.1.zip",
-                                         "sha256":  "13ba7235796684fb05c5ae74908f86d1daef9daaddc144c9c3dd50bc27251dae",
-                                         "size":  51003968
+                                         "sha256":  "A88F2A9D358ADA16FFDDF8E8C21B47EAB1E93294C567CD63334BDC7044C802D8",
+                                         "size":  51004126
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPNInstaller-0.2.1.exe",
-                                         "sha256":  "0d9149259c402e57961c212a90d4ffd462c21377bc9bfb81eb8eae7fcc13427d",
+                                         "sha256":  "DC54944170973927D535A6A23C1AB116329D678E323E444EAA1B464CDDDF0F3A",
                                          "size":  51156480
                                      }
                                  ]
