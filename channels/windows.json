@@ -4,26 +4,26 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.1",
-                   "build":  8,
+                   "build":  9,
                    "title":  "v0.2.1",
-                   "notes":  "Исправлены названия Сингапура и Швейцарии, а также подсчет и отображение загруженного трафика в Windows",
+                   "notes":  "Исправлен Windows TUN: исключение VPN-сервера из захвата, проверка адаптера xconnect0 и защита от ложного статуса подключения",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.1",
-                   "released_at":  "2026-07-15T04:41:36.7433518Z",
+                   "released_at":  "2026-07-15T05:00:42.3915219Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPN-0.2.1.zip",
-                                         "sha256":  "54310241c945619a74be38de83b7346979bbd6b854635af9169cc4065b099329",
-                                         "size":  42957011
+                                         "sha256":  "6c5b84dc71ecbce75ba4f7499cf100f709ebcabe415236aa2bce794bc2e53c59",
+                                         "size":  42958056
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPNInstaller-0.2.1.exe",
-                                         "sha256":  "754e5192044f90182ca6c98908c46e4be2af84afbef92bca0537433f93cad12f",
-                                         "size":  43109376
+                                         "sha256":  "1cdc3a19035b994e5b0d8679fcc0ac7bb70beb82d47ea98585f38126360bf422",
+                                         "size":  43110400
                                      }
                                  ]
                }
