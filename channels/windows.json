@@ -4,26 +4,26 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.1",
-                   "build":  6,
+                   "build":  7,
                    "title":  "v0.2.1",
-                   "notes":  "Общее исправление Windows TUN: единый sing-box core для всех поддерживаемых профилей",
+                   "notes":  "Откат Windows VPN core: Xray для VLESS, XHTTP, Reality и других совместимых профилей; восстановлены названия серверов и замер пинга",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.1",
-                   "released_at":  "2026-07-15T03:49:59.8337345Z",
+                   "released_at":  "2026-07-15T04:02:53.6054547Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPN-0.2.1.zip",
-                                         "sha256":  "e010089b4240ab1dc4380720804a164cb5699c0223a139a22eeba44f3cab1be2",
-                                         "size":  42954047
+                                         "sha256":  "4825265027ebfed7a6606baf8f4bf322ac30af88689b8b4e7d2f681ca1e507e7",
+                                         "size":  42954796
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPNInstaller-0.2.1.exe",
-                                         "sha256":  "02c74b0a6abd04c9d584c809a38a8ac81c15dfb8e4044c9156a66ff04d0cd6d3",
-                                         "size":  43106304
+                                         "sha256":  "4bfee9ecdc98832e70c06799b08d38bb56eafb32088a6e6854b21959d05f8a3f",
+                                         "size":  43107328
                                      }
                                  ]
                }
