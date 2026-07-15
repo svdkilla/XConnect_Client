@@ -4,26 +4,26 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.1",
-                   "build":  12,
+                   "build":  13,
                    "title":  "v0.2.1",
-                   "notes":  "Ручная настройка адреса DNS и маршрутов Windows Xray TUN",
+                   "notes":  "Исправлен TUN: адрес VPN-сервера исключается из туннеля через физический шлюз; исходящие соединения Xray привязаны к физическому интерфейсу; очищен диагностический лог",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.1",
-                   "released_at":  "2026-07-15T06:11:38.5933042Z",
+                   "released_at":  "2026-07-15T06:33:35.2701848Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPN-0.2.1.zip",
-                                         "sha256":  "dace023dc40e10e3352623570bac27e7e292baa9c22825eb5e9d3e7708d6183a",
-                                         "size":  50995006
+                                         "sha256":  "5cb4caf1677bae8b7d4ecb964d4b6b79c2c5c28170d8914ad1674b62b3e51305",
+                                         "size":  51002945
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPNInstaller-0.2.1.exe",
-                                         "sha256":  "21bfa3dfee5c12f8850d4b90588d9df986454740e3676c3f6cd603755b776dc2",
-                                         "size":  51147264
+                                         "sha256":  "c06ed675dca3918898f53497798646ff199c2aab96d25917014e186b3e65a7fd",
+                                         "size":  51155456
                                      }
                                  ]
                }
