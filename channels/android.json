@@ -4,18 +4,18 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.1",
-                   "build":  4,
+                   "build":  5,
                    "title":  "v0.2.1",
-                   "notes":  "Исправление подключения AUTO, отмены TUN-проверки и контраста уведомления логов",
+                   "notes":  "Исправление Windows TUN для VLESS XHTTP: единый sing-box core и MTU 1500",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.1",
-                   "released_at":  "2026-07-15T03:17:45.9062824Z",
+                   "released_at":  "2026-07-15T03:41:50.8561405Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "apk",
                                          "arch":  "arm64-v8a",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPN-0.2.1.apk",
-                                         "sha256":  "f8ca43243b5e4788c2115cca6fd07a3b76261853e9752034fd677bd336457c93",
+                                         "sha256":  "85f40465ea2cc749184baf6ad2dfc22b8fd60aa49d32869cd64791940b8e63d8",
                                          "size":  122968086
                                      }
                                  ]
