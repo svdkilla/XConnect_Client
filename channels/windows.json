@@ -4,25 +4,25 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.1",
-                   "build":  18,
+                   "build":  19,
                    "title":  "v0.2.1",
-                   "notes":  "Исправлена проверка TUN: если через виртуальный адаптер уже идет реальный двусторонний трафик, рабочий Xray больше не останавливается из-за тайм-аута служебного HTTPS-адреса",
+                   "notes":  "проверка адаптера",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.1",
-                   "released_at":  "2026-07-15T20:50:57.0771050Z",
+                   "released_at":  "2026-07-16T22:01:32.7560441Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPN-0.2.1.zip",
-                                         "sha256":  "F34C17298F9B3249BF7C9D8997937D6CBB4DE7607E33EAD04DBA37D0BA914955",
-                                         "size":  51005109
+                                         "sha256":  "ec6fb999a499ed3849988cda94a31a4e89a574d29af45190f1149f8e89c28b77",
+                                         "size":  51005432
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPNInstaller-0.2.1.exe",
-                                         "sha256":  "5A3EF44AC7D8359FC76B243117F1D338B7AF06DC1DBEC2E96B77794F48D2C429",
+                                         "sha256":  "f2715524aa4d50a189a7327f481b340b3524bd88f3a6af684a65402a18bde2ac",
                                          "size":  51157504
                                      }
                                  ]
