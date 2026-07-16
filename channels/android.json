@@ -4,19 +4,19 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.1",
-                   "build":  8,
+                   "build":  19,
                    "title":  "v0.2.1",
-                   "notes":  "Исправлены названия Сингапура и Швейцарии, а также подсчет и отображение загруженного трафика в Windows",
+                   "notes":  "проверка адаптера",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.1",
-                   "released_at":  "2026-07-15T04:41:36.7433518Z",
+                   "released_at":  "2026-07-16T22:01:32.7560441Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "apk",
                                          "arch":  "arm64-v8a",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPN-0.2.1.apk",
-                                         "sha256":  "009e1c7c07f397fe7dabd0f6b02274c6b3ee1a5f58b54a756db1b3a84b7b412e",
-                                         "size":  122968086
+                                         "sha256":  "60d8f9f09db428fbc229bef232970240d498e0edf37c798a94b79ea2bd2b9b95",
+                                         "size":  131003262
                                      }
                                  ]
                }
