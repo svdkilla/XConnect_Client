@@ -4,26 +4,26 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.1",
-                   "build":  19,
+                   "build":  20,
                    "title":  "v0.2.1",
-                   "notes":  "проверка адаптера",
+                   "notes":  "Релиз TUN, проверка подключения. Перевод языков на lang. Убрал хардкод где был",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.1",
-                   "released_at":  "2026-07-16T22:01:32.7560441Z",
+                   "released_at":  "2026-07-17T14:35:43.5881907Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPN-0.2.1.zip",
-                                         "sha256":  "ec6fb999a499ed3849988cda94a31a4e89a574d29af45190f1149f8e89c28b77",
-                                         "size":  51005432
+                                         "sha256":  "3dd1a78a74bb6dac148fd7daa2f24177cab4728aeb38379d7d0e5c9b01d2257b",
+                                         "size":  51006143
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPNInstaller-0.2.1.exe",
-                                         "sha256":  "f2715524aa4d50a189a7327f481b340b3524bd88f3a6af684a65402a18bde2ac",
-                                         "size":  51157504
+                                         "sha256":  "40ec2429048be2f358e9066b7bac96737c0c1b25b3e38674f1e0f77746aaa832",
+                                         "size":  51158528
                                      }
                                  ]
                }
