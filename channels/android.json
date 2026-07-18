@@ -3,20 +3,20 @@
     "channel":  "stable",
     "enabled":  true,
     "latest":  {
-                   "version":  "0.2.1",
-                   "build":  20,
-                   "title":  "v0.2.1",
-                   "notes":  "Релиз TUN, проверка подключения. Перевод языков на lang. Убрал хардкод где был",
-                   "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.1",
-                   "released_at":  "2026-07-17T14:35:43.5881907Z",
+                   "version":  "0.2.2",
+                   "build":  5,
+                   "title":  "v0.2.2",
+                   "notes":  "Приоритеты транспорта, напоминание об окончании подписки, рефакторинг настроек, утечки DNS, проверка TUN улучшена",
+                   "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.2",
+                   "released_at":  "2026-07-18T04:02:59.0150992Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "apk",
                                          "arch":  "arm64-v8a",
-                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.1/XConnectVPN-0.2.1.apk",
-                                         "sha256":  "a92f1419ea3ab07e4bba81e986af6825c74fce0f1026fd24be6fac9846971d45",
-                                         "size":  131003410
+                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.2/XConnectVPN-0.2.2.apk",
+                                         "sha256":  "b063a5a9d9c5dc67dd74e3d73f10160163fa68f9b35a18799f3bdeb2a0b5a4d3",
+                                         "size":  131136474
                                      }
                                  ]
                }
