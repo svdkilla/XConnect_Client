@@ -4,26 +4,26 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.2",
-                   "build":  6,
+                   "build":  8,
                    "title":  "v0.2.2",
-                   "notes":  "Шрифты, гугл плей",
+                   "notes":  "AdBlocker",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.2",
-                   "released_at":  "2026-07-18T22:32:57.0920808Z",
+                   "released_at":  "2026-07-19T11:51:32.7922266Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.2/XConnectVPN-0.2.2.zip",
-                                         "sha256":  "29b5c36d12bd3de1a0e48ee7a84af81b26c33b76eed071e49f6d739a7625831a",
-                                         "size":  51944184
+                                         "sha256":  "5dcbd39279828e4d6bba37f2d5bd3e2953e0161036607f42d3490187e1e064cc",
+                                         "size":  51945469
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.2/XConnectVPNInstaller-0.2.2.exe",
-                                         "sha256":  "91105981e8c5df064d8c4ebebeea2724ed4aa1fbb953a67ac3184fc6242a9e53",
-                                         "size":  52239872
+                                         "sha256":  "e9dafd18bb0e4ef308cc9a3cbe353581b0d08c30cdd511d37fc90f00ac96f581",
+                                         "size":  52241408
                                      }
                                  ]
                }
