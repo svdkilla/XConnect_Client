@@ -4,19 +4,19 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.2",
-                   "build":  8,
+                   "build":  10,
                    "title":  "v0.2.2",
-                   "notes":  "AdBlocker",
+                   "notes":  "флатер тесты и аналайз",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.2",
-                   "released_at":  "2026-07-19T11:51:32.7922266Z",
+                   "released_at":  "2026-07-21T14:13:43.0776831Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "apk",
                                          "arch":  "arm64-v8a",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.2/XConnectVPN-0.2.2.apk",
-                                         "sha256":  "e372c6090ff7d3a29100aa9c902aae3f4cf12605a82ecbd2d5624081b83014ff",
-                                         "size":  132195645
+                                         "sha256":  "629c8d043acf8026d76866b4b3f859bb7b15b7add4de67af01d8cd07d04dc013",
+                                         "size":  132195601
                                      }
                                  ]
                }
