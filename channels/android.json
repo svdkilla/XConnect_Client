@@ -3,20 +3,20 @@
     "channel":  "stable",
     "enabled":  true,
     "latest":  {
-                   "version":  "0.2.2",
-                   "build":  10,
-                   "title":  "v0.2.2",
-                   "notes":  "флатер тесты и аналайз",
-                   "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.2",
-                   "released_at":  "2026-07-21T14:13:43.0776831Z",
+                   "version":  "0.2.3",
+                   "build":  1,
+                   "title":  "v0.2.3",
+                   "notes":  "Трафик подписки, нагрузка, автоапдейт, кеш CDN, Почему медленно, трассировка",
+                   "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.3",
+                   "released_at":  "2026-07-24T03:02:51.1917559Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "apk",
                                          "arch":  "arm64-v8a",
-                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.2/XConnectVPN-0.2.2.apk",
-                                         "sha256":  "629c8d043acf8026d76866b4b3f859bb7b15b7add4de67af01d8cd07d04dc013",
-                                         "size":  132195601
+                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.3/XConnectVPN-0.2.3.apk",
+                                         "sha256":  "23c4c0873c8795e665d46d50faee1925b0f0a4c79e7da5356365ef101494a28e",
+                                         "size":  132196717
                                      }
                                  ]
                }
