@@ -4,26 +4,26 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.4",
-                   "build":  1,
+                   "build":  3,
                    "title":  "v0.2.4",
-                   "notes":  "Почему медленно, статистика, защита DNS, SOCKS AUTH",
+                   "notes":  "DNS утечки, SOCKS AUTH, статистика",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.4",
-                   "released_at":  "2026-07-31T09:45:36.7085759Z",
+                   "released_at":  "2026-08-02T13:38:23.2050473Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.4/XConnectVPN-0.2.4.zip",
-                                         "sha256":  "bd501dbb4d7ad781cde93eb21d9397e0fec599c7f4d48b33239ed1e7151dcc01",
-                                         "size":  51972050
+                                         "sha256":  "eab48a64c9584939057536fbcc853053a03b02d5d8eaef4c29cfb4dace72496b",
+                                         "size":  51976282
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.4/XConnectVPNInstaller-0.2.4.exe",
-                                         "sha256":  "6701562c4303baaaffb19cff52e8c76e2ad5320dbb0a2132301d2391f65711ff",
-                                         "size":  52268032
+                                         "sha256":  "80b9e97fba2b628fde75fc00867596df9ea56ce37d7c2b4aa5348a14b8c3a4ad",
+                                         "size":  52272128
                                      }
                                  ]
                }
