@@ -4,18 +4,18 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.4",
-                   "build":  3,
+                   "build":  4,
                    "title":  "v0.2.4",
-                   "notes":  "DNS утечки, SOCKS AUTH, статистика",
+                   "notes":  "DNS, Оптимизация",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.4",
-                   "released_at":  "2026-08-02T13:38:23.2050473Z",
+                   "released_at":  "2026-08-02T20:30:49.2435344Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "apk",
                                          "arch":  "arm64-v8a",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.4/XConnectVPN-0.2.4.apk",
-                                         "sha256":  "d750b20290865ab7c11792c94da80b0a32be50743a81da4ac99ef6e75068ddad",
+                                         "sha256":  "df1ff3602fe2fe3bfc2147454bc0325c55518db016193f07a64df7b1837f10de",
                                          "size":  132197889
                                      }
                                  ]
