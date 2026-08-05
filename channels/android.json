@@ -4,19 +4,19 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.4",
-                   "build":  5,
+                   "build":  6,
                    "title":  "v0.2.4",
-                   "notes":  "Пинг, ДНС, оптимизация",
+                   "notes":  "Исправлены балансировщики и утечка DNS в TUN, честный пинг, нагрузка по узлам, ниже расход CPU",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.4",
-                   "released_at":  "2026-08-03T01:18:48.5155357Z",
+                   "released_at":  "2026-08-05T00:53:28.3621178Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "apk",
                                          "arch":  "arm64-v8a",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.4/XConnectVPN-0.2.4.apk",
-                                         "sha256":  "73cba8a3a7f31fde0a93644d0bffd3d72557d0c7b763b9a0c66e6bda9dd478f5",
-                                         "size":  132197889
+                                         "sha256":  "b596b2c29a048576ada4962fed8b161f0ed4e2b5b6afa80bda24d3550f24968f",
+                                         "size":  132199269
                                      }
                                  ]
                }
