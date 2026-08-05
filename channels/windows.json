@@ -4,26 +4,26 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.4",
-                   "build":  5,
+                   "build":  6,
                    "title":  "v0.2.4",
-                   "notes":  "Пинг, ДНС, оптимизация",
+                   "notes":  "Исправлены балансировщики и утечка DNS в TUN, честный пинг, нагрузка по узлам, ниже расход CPU",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.4",
-                   "released_at":  "2026-08-03T01:18:48.5155357Z",
+                   "released_at":  "2026-08-05T00:53:28.3621178Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.4/XConnectVPN-0.2.4.zip",
-                                         "sha256":  "a4377cf5d77f87c7a27e17da2088622a2214a994c43e8da09572b492517f439f",
-                                         "size":  51971183
+                                         "sha256":  "61675ae8d056be2f54019d67988dcefdeb4b3ffd1b38dff806402a1bcc82ac40",
+                                         "size":  51983320
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.4/XConnectVPNInstaller-0.2.4.exe",
-                                         "sha256":  "9c508b6c83a4c80b6a1d3ffa5a86a98a565d1d966424a8e256331006767a294b",
-                                         "size":  52267008
+                                         "sha256":  "419a6d9c576c8abad83b56e0fd42d223bcce9bb8c569cb1ebecd9b0449c8c028",
+                                         "size":  52279296
                                      }
                                  ]
                }
