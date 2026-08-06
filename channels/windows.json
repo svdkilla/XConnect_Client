@@ -4,26 +4,26 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.4",
-                   "build":  6,
+                   "build":  7,
                    "title":  "v0.2.4",
-                   "notes":  "Исправлены балансировщики и утечка DNS в TUN, честный пинг, нагрузка по узлам, ниже расход CPU",
+                   "notes":  "Исправлены балансировщики и утечка DNS в TUN, честный пинг очередями, нагрузка по узлам, ниже расход CPU",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.4",
-                   "released_at":  "2026-08-05T00:53:28.3621178Z",
+                   "released_at":  "2026-08-06T18:13:58.8558091Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.4/XConnectVPN-0.2.4.zip",
-                                         "sha256":  "61675ae8d056be2f54019d67988dcefdeb4b3ffd1b38dff806402a1bcc82ac40",
-                                         "size":  51983320
+                                         "sha256":  "3cf8c95c4b6a99fd168f0d0acc6708b8271dc467eee6768b592cf29d5647cf5a",
+                                         "size":  51987972
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.4/XConnectVPNInstaller-0.2.4.exe",
-                                         "sha256":  "419a6d9c576c8abad83b56e0fd42d223bcce9bb8c569cb1ebecd9b0449c8c028",
-                                         "size":  52279296
+                                         "sha256":  "1a17f4eea04cedc82b8bc124ad178d2d8016bfc2d9305fcb359258b0732b2246",
+                                         "size":  52283904
                                      }
                                  ]
                }
