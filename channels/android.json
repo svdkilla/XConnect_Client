@@ -3,20 +3,20 @@
     "channel":  "stable",
     "enabled":  true,
     "latest":  {
-                   "version":  "0.2.4",
-                   "build":  7,
-                   "title":  "v0.2.4",
-                   "notes":  "Исправлены балансировщики и утечка DNS в TUN, честный пинг очередями, нагрузка по узлам, ниже расход CPU",
-                   "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.4",
-                   "released_at":  "2026-08-06T18:13:58.8558091Z",
+                   "version":  "0.2.5",
+                   "build":  1,
+                   "title":  "v0.2.5",
+                   "notes":  "Описание сервера, сортировка, поиск, трей, логи, уведомления, экспорт роутинга, Kill Switch",
+                   "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.5",
+                   "released_at":  "2026-08-06T19:24:09.7857831Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "apk",
                                          "arch":  "arm64-v8a",
-                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.4/XConnectVPN-0.2.4.apk",
-                                         "sha256":  "27fd83503de55f17267964297974c45ae102de4e9f7a83162f6d574c3cbb189a",
-                                         "size":  132264841
+                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.5/XConnectVPN-0.2.5.apk",
+                                         "sha256":  "2757cf185fb559d1ef10407dd361fa727e26b019bc19acf204a991c7c41c5332",
+                                         "size":  132265193
                                      }
                                  ]
                }
