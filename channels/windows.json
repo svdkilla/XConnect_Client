@@ -4,30 +4,35 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.6",
-                   "build":  3,
+                   "build":  4,
                    "title":  "v0.2.6",
-                   "notes":  "Правила роутинга, обновление геофайлов, UI",
+                   "notes":  "AD Blocker, утечка IP в логе, перескоки серверов",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.6",
-                   "released_at":  "2026-08-07T09:27:12.0982981Z",
+                   "released_at":  "2026-08-07T10:18:26.8015622Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.6/XConnectVPN-0.2.6.zip",
-                                         "sha256":  "7e54ad589e2fe7faf8ec896ffb7e76fae64c6bb6591b48b46078a451e551c6b5",
-                                         "size":  51988711
+                                         "sha256":  "853ddfdb9f584c71decbc254758eaa8eb2f7b3d988f6a13355c98410155c305c",
+                                         "size":  51991046
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.6/XConnectVPNInstaller-0.2.6.exe",
-                                         "sha256":  "5f5a88131e52f05daad509003bb2cdbab800b0e11f75c17a59939f998c77af7d",
-                                         "size":  52284416
+                                         "sha256":  "909240ea59fe0fee79fb3c737bf18f5ca2f5a7e64a33d7d7843b26e44e503b80",
+                                         "size":  52286976
                                      }
                                  ]
                },
     "history":  [
+                    {
+                        "version":  "0.2.6",
+                        "build":  3,
+                        "notes":  "Правила роутинга, обновление геофайлов, UI"
+                    },
                     {
                         "version":  "0.2.6",
                         "build":  2,
