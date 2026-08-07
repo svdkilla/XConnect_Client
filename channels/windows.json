@@ -4,30 +4,35 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.6",
-                   "build":  1,
+                   "build":  2,
                    "title":  "v0.2.6",
-                   "notes":  "Растягиваемый список серверов, сворачиваемые категории, проверка соединения одной кнопкой, гайд по реальным границам; исправлено пропадание избранного и восстановление DNS, убраны лаги кабинета",
+                   "notes":  "Пинг стартует мгновенно, починен TUN-режим, уведомления закрываются и показывают таймер в правом верхнем углу, адрес сервера скрыт везде.",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.6",
-                   "released_at":  "2026-08-07T02:49:08.3102517Z",
+                   "released_at":  "2026-08-07T04:43:53.3631300Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.6/XConnectVPN-0.2.6.zip",
-                                         "sha256":  "aa2f123e3e33ec7dd357efb9fc1066823b968c438c55a8e60e518a62b85be155",
-                                         "size":  52029468
+                                         "sha256":  "b796f5fe520243979dfd39179896449c50cdc236f8de1e8564441010f2158ffa",
+                                         "size":  52031390
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.6/XConnectVPNInstaller-0.2.6.exe",
-                                         "sha256":  "3e280680ae0276dfc72f178431159b2072407d010f203c389d11baac03cb0f82",
-                                         "size":  52325376
+                                         "sha256":  "e591e1dde349034ecbb789770d7cb5bfbb242086d0243e605a09dce53992ce31",
+                                         "size":  52327424
                                      }
                                  ]
                },
     "history":  [
+                    {
+                        "version":  "0.2.6",
+                        "build":  1,
+                        "notes":  "Растягиваемый список серверов, сворачиваемые категории, проверка соединения одной кнопкой, гайд по реальным границам; исправлено пропадание избранного и восстановление DNS, убраны лаги кабинета"
+                    },
                     {
                         "version":  "0.2.5",
                         "build":  3,
