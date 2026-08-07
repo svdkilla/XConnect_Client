@@ -4,18 +4,18 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.5",
-                   "build":  1,
+                   "build":  2,
                    "title":  "v0.2.5",
-                   "notes":  "Описание сервера, сортировка, поиск, трей, логи, уведомления, экспорт роутинга, Kill Switch",
+                   "notes":  "hy2, пинг очередями, разделители списка серверов",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.5",
-                   "released_at":  "2026-08-06T19:24:09.7857831Z",
+                   "released_at":  "2026-08-07T00:39:43.2195186Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "apk",
                                          "arch":  "arm64-v8a",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.5/XConnectVPN-0.2.5.apk",
-                                         "sha256":  "2757cf185fb559d1ef10407dd361fa727e26b019bc19acf204a991c7c41c5332",
+                                         "sha256":  "396a1fb70ec518210081408f03fb7ea16960d2da8113d12de4d9297a7f4942e7",
                                          "size":  132265193
                                      }
                                  ]
