@@ -3,21 +3,28 @@
     "channel":  "stable",
     "enabled":  true,
     "latest":  {
-                   "version":  "0.2.5",
-                   "build":  3,
-                   "title":  "v0.2.5",
-                   "notes":  "Обновление чанжлога при обновлении, растягивание списка серверов",
-                   "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.5",
-                   "released_at":  "2026-08-07T00:57:48.6368740Z",
+                   "version":  "0.2.6",
+                   "build":  1,
+                   "title":  "v0.2.6",
+                   "notes":  "Растягиваемый список серверов, сворачиваемые категории, проверка соединения одной кнопкой, гайд по реальным границам; исправлено пропадание избранного и восстановление DNS, убраны лаги кабинета",
+                   "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.6",
+                   "released_at":  "2026-08-07T02:49:08.3102517Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "apk",
                                          "arch":  "arm64-v8a",
-                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.5/XConnectVPN-0.2.5.apk",
-                                         "sha256":  "dcc5d79e86b58a8baed1e62d9e0d86d49bf614baee16beb4f9f45f6e4aac5b9e",
-                                         "size":  132265265
+                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.6/XConnectVPN-0.2.6.apk",
+                                         "sha256":  "2c0d5991de311d4fad22e1ee9b997f103055c87d804e073b50c131bc0cadb7d1",
+                                         "size":  132265109
                                      }
                                  ]
-               }
+               },
+    "history":  [
+                    {
+                        "version":  "0.2.5",
+                        "build":  3,
+                        "notes":  "Обновление чанжлога при обновлении, растягивание списка серверов"
+                    }
+                ]
 }
