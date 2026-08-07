@@ -3,28 +3,35 @@
     "channel":  "stable",
     "enabled":  true,
     "latest":  {
-                   "version":  "0.2.5",
-                   "build":  3,
-                   "title":  "v0.2.5",
-                   "notes":  "Обновление чанжлога при обновлении, растягивание списка серверов",
-                   "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.5",
-                   "released_at":  "2026-08-07T00:57:48.6368740Z",
+                   "version":  "0.2.6",
+                   "build":  1,
+                   "title":  "v0.2.6",
+                   "notes":  "Растягиваемый список серверов, сворачиваемые категории, проверка соединения одной кнопкой, гайд по реальным границам; исправлено пропадание избранного и восстановление DNS, убраны лаги кабинета",
+                   "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.6",
+                   "released_at":  "2026-08-07T02:49:08.3102517Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
-                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.5/XConnectVPN-0.2.5.zip",
-                                         "sha256":  "2b032bc10cb593c918e84f731396aaccb743e5316439a13c6d88c7d43d14bba4",
-                                         "size":  52009994
+                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.6/XConnectVPN-0.2.6.zip",
+                                         "sha256":  "aa2f123e3e33ec7dd357efb9fc1066823b968c438c55a8e60e518a62b85be155",
+                                         "size":  52029468
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
-                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.5/XConnectVPNInstaller-0.2.5.exe",
-                                         "sha256":  "88a96ce9a96441038564c5d0789bb19638b8594b7442b1e3ba6445570a204333",
-                                         "size":  52305920
+                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.6/XConnectVPNInstaller-0.2.6.exe",
+                                         "sha256":  "3e280680ae0276dfc72f178431159b2072407d010f203c389d11baac03cb0f82",
+                                         "size":  52325376
                                      }
                                  ]
-               }
+               },
+    "history":  [
+                    {
+                        "version":  "0.2.5",
+                        "build":  3,
+                        "notes":  "Обновление чанжлога при обновлении, растягивание списка серверов"
+                    }
+                ]
 }
