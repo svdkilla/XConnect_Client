@@ -4,26 +4,26 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.5",
-                   "build":  2,
+                   "build":  3,
                    "title":  "v0.2.5",
-                   "notes":  "hy2, пинг очередями, разделители списка серверов",
+                   "notes":  "Обновление чанжлога при обновлении, растягивание списка серверов",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.5",
-                   "released_at":  "2026-08-07T00:39:43.2195186Z",
+                   "released_at":  "2026-08-07T00:57:48.6368740Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.5/XConnectVPN-0.2.5.zip",
-                                         "sha256":  "04c9cd4c95623b270fb6d3d54740a52250df09e2e24b0b3219042aabb52b4b86",
-                                         "size":  52001049
+                                         "sha256":  "2b032bc10cb593c918e84f731396aaccb743e5316439a13c6d88c7d43d14bba4",
+                                         "size":  52009994
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.5/XConnectVPNInstaller-0.2.5.exe",
-                                         "sha256":  "e62603b5591774dcde1f7fb52b7921e75b302c852d320a817a5f750c3bb962c6",
-                                         "size":  52296704
+                                         "sha256":  "88a96ce9a96441038564c5d0789bb19638b8594b7442b1e3ba6445570a204333",
+                                         "size":  52305920
                                      }
                                  ]
                }
