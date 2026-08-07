@@ -4,23 +4,28 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.6",
-                   "build":  3,
+                   "build":  4,
                    "title":  "v0.2.6",
-                   "notes":  "Правила роутинга, обновление геофайлов, UI",
+                   "notes":  "AD Blocker, утечка IP в логе, перескоки серверов",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.6",
-                   "released_at":  "2026-08-07T09:27:12.0982981Z",
+                   "released_at":  "2026-08-07T10:18:26.8015622Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "apk",
                                          "arch":  "arm64-v8a",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.6/XConnectVPN-0.2.6.apk",
-                                         "sha256":  "52c269e2e53d298d100e7ae6a11de09212c2daf4dfcaf9660ac7d2d282b6d166",
-                                         "size":  132199633
+                                         "sha256":  "b1caebea9a1e7ebb3c31610e1a621046a98eebc202d92cb0ae56256b6f0c408f",
+                                         "size":  132199677
                                      }
                                  ]
                },
     "history":  [
+                    {
+                        "version":  "0.2.6",
+                        "build":  3,
+                        "notes":  "Правила роутинга, обновление геофайлов, UI"
+                    },
                     {
                         "version":  "0.2.6",
                         "build":  2,
