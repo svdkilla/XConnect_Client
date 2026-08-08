@@ -3,24 +3,29 @@
     "channel":  "stable",
     "enabled":  true,
     "latest":  {
-                   "version":  "0.2.6",
-                   "build":  4,
-                   "title":  "v0.2.6",
-                   "notes":  "AD Blocker, утечка IP в логе, перескоки серверов",
-                   "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.6",
-                   "released_at":  "2026-08-07T10:18:26.8015622Z",
+                   "version":  "0.2.7",
+                   "build":  1,
+                   "title":  "v0.2.7",
+                   "notes":  "Чистое дерево подписки, обновление API, патч ядра",
+                   "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.7",
+                   "released_at":  "2026-08-08T19:37:29.4857214Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "apk",
                                          "arch":  "arm64-v8a",
-                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.6/XConnectVPN-0.2.6.apk",
-                                         "sha256":  "b1caebea9a1e7ebb3c31610e1a621046a98eebc202d92cb0ae56256b6f0c408f",
-                                         "size":  132199677
+                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.7/XConnectVPN-0.2.7.apk",
+                                         "sha256":  "b7844c9395728343177e971ebe32cac06b24c6f7a2ca843c2567c62a30122325",
+                                         "size":  132199749
                                      }
                                  ]
                },
     "history":  [
+                    {
+                        "version":  "0.2.6",
+                        "build":  4,
+                        "notes":  "AD Blocker, утечка IP в логе, перескоки серверов"
+                    },
                     {
                         "version":  "0.2.6",
                         "build":  3,
