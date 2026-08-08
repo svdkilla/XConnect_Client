@@ -3,31 +3,36 @@
     "channel":  "stable",
     "enabled":  true,
     "latest":  {
-                   "version":  "0.2.6",
-                   "build":  4,
-                   "title":  "v0.2.6",
-                   "notes":  "AD Blocker, утечка IP в логе, перескоки серверов",
-                   "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.6",
-                   "released_at":  "2026-08-07T10:18:26.8015622Z",
+                   "version":  "0.2.7",
+                   "build":  1,
+                   "title":  "v0.2.7",
+                   "notes":  "Чистое дерево подписки, обновление API, патч ядра",
+                   "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.7",
+                   "released_at":  "2026-08-08T19:37:29.4857214Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
-                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.6/XConnectVPN-0.2.6.zip",
-                                         "sha256":  "853ddfdb9f584c71decbc254758eaa8eb2f7b3d988f6a13355c98410155c305c",
-                                         "size":  51991046
+                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.7/XConnectVPN-0.2.7.zip",
+                                         "sha256":  "a8986e9960b694e63561530bffdb3e2838f8acd0b672a3d8bff90617d0d9910b",
+                                         "size":  51993581
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
-                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.6/XConnectVPNInstaller-0.2.6.exe",
-                                         "sha256":  "909240ea59fe0fee79fb3c737bf18f5ca2f5a7e64a33d7d7843b26e44e503b80",
-                                         "size":  52286976
+                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.7/XConnectVPNInstaller-0.2.7.exe",
+                                         "sha256":  "378589d7175017eed5a238f00508f416514f55a7850dcfb2a6fd0d3c92390ae5",
+                                         "size":  52289536
                                      }
                                  ]
                },
     "history":  [
+                    {
+                        "version":  "0.2.6",
+                        "build":  4,
+                        "notes":  "AD Blocker, утечка IP в логе, перескоки серверов"
+                    },
                     {
                         "version":  "0.2.6",
                         "build":  3,
