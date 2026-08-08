@@ -4,23 +4,28 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.7",
-                   "build":  4,
+                   "build":  5,
                    "title":  "v0.2.7",
                    "notes":  "Все серверы подписки теперь работают на мобильной версии",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.7",
-                   "released_at":  "2026-08-08T20:58:22.7813377Z",
+                   "released_at":  "2026-08-08T21:42:45.2065249Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "apk",
                                          "arch":  "arm64-v8a",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.7/XConnectVPN-0.2.7.apk",
-                                         "sha256":  "0d372c86d4099b403f51b3c3b6e36f1738e4e8f406f57a27112f6c297e2645c7",
+                                         "sha256":  "714cbe8451f775e1fbe9e18d6217511403b092528164396f6d35a5135cdddda3",
                                          "size":  132265397
                                      }
                                  ]
                },
     "history":  [
+                    {
+                        "version":  "0.2.7",
+                        "build":  4,
+                        "notes":  "Все серверы подписки теперь работают на мобильной версии"
+                    },
                     {
                         "version":  "0.2.7",
                         "build":  1,
