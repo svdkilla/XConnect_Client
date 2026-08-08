@@ -1,6 +1,6 @@
 {
     "channel":  "stable",
-    "updated":  "2026-08-08T21:42:45.2065249Z",
+    "updated":  "2026-08-08T22:03:27.3278252Z",
     "manifests":  {
                       "windows":  "https://raw.githubusercontent.com/svdkilla/XConnect_Client/main/channels/windows.json",
                       "android":  "https://raw.githubusercontent.com/svdkilla/XConnect_Client/main/channels/android.json"
