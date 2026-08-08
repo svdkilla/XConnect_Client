@@ -4,30 +4,35 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.7",
-                   "build":  1,
+                   "build":  8,
                    "title":  "v0.2.7",
-                   "notes":  "Чистое дерево подписки, обновление API, патч ядра",
+                   "notes":  "Все серверы подписки теперь работают на мобильной версии, тумблер socks авторизации",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.7",
-                   "released_at":  "2026-08-08T19:37:29.4857214Z",
+                   "released_at":  "2026-08-08T23:16:35.2772628Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.7/XConnectVPN-0.2.7.zip",
-                                         "sha256":  "a8986e9960b694e63561530bffdb3e2838f8acd0b672a3d8bff90617d0d9910b",
-                                         "size":  51993581
+                                         "sha256":  "9be559f4e7bb79a909db4cef8865a528dfa8b6e61bc391cbd5841a2a6e66f106",
+                                         "size":  51997817
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.7/XConnectVPNInstaller-0.2.7.exe",
-                                         "sha256":  "378589d7175017eed5a238f00508f416514f55a7850dcfb2a6fd0d3c92390ae5",
-                                         "size":  52289536
+                                         "sha256":  "5b2e14dac12f75c9f47cd9ea5f33337b15b5592634decf714e64d9d2f58d3c97",
+                                         "size":  52293632
                                      }
                                  ]
                },
     "history":  [
+                    {
+                        "version":  "0.2.7",
+                        "build":  1,
+                        "notes":  "Чистое дерево подписки, обновление API, патч ядра"
+                    },
                     {
                         "version":  "0.2.6",
                         "build":  4,
