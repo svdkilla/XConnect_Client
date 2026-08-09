@@ -4,30 +4,35 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.7",
-                   "build":  9,
+                   "build":  10,
                    "title":  "v0.2.7",
-                   "notes":  "Все серверы подписки теперь работают на мобильной версии",
+                   "notes":  "Все серверы подписки теперь работают на мобильной версии, фикс виндоус прокси",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.7",
-                   "released_at":  "2026-08-08T23:49:26.6196210Z",
+                   "released_at":  "2026-08-09T03:11:35.5542265Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.7/XConnectVPN-0.2.7.zip",
-                                         "sha256":  "8bc3a6a5df746683d4b862df01ec208f5ad9f1f3271ab82d9b2a482837576a6e",
-                                         "size":  51997836
+                                         "sha256":  "8c87ff79ee472342229effe29ff2b411f25268ed8ed0c9285c8fc61cf3f2d4d7",
+                                         "size":  52003062
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.7/XConnectVPNInstaller-0.2.7.exe",
-                                         "sha256":  "5781c6bf3db2d3fc4e99e3acb007369681e5bde0c909f3156f999a8c07456514",
-                                         "size":  52293632
+                                         "sha256":  "9fa7891c08398f173ffe4dc18be86aea833df969551a3e9253b700c1affe82f9",
+                                         "size":  52298752
                                      }
                                  ]
                },
     "history":  [
+                    {
+                        "version":  "0.2.7",
+                        "build":  9,
+                        "notes":  "Все серверы подписки теперь работают на мобильной версии"
+                    },
                     {
                         "version":  "0.2.7",
                         "build":  8,
