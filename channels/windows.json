@@ -4,30 +4,35 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.7",
-                   "build":  10,
+                   "build":  12,
                    "title":  "v0.2.7",
-                   "notes":  "Все серверы подписки теперь работают на мобильной версии, фикс виндоус прокси",
+                   "notes":  "Описание серверов, показ транспорта и протокола, патчи xray для пк и мобилки",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.7",
-                   "released_at":  "2026-08-09T03:11:35.5542265Z",
+                   "released_at":  "2026-08-09T21:24:31.1192165Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.7/XConnectVPN-0.2.7.zip",
-                                         "sha256":  "8c87ff79ee472342229effe29ff2b411f25268ed8ed0c9285c8fc61cf3f2d4d7",
-                                         "size":  52003062
+                                         "sha256":  "935251ecd66a1af9f2ecdf5632e23876672e9c42d53d33bd6247cdf5675ed7bb",
+                                         "size":  52015188
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.7/XConnectVPNInstaller-0.2.7.exe",
-                                         "sha256":  "9fa7891c08398f173ffe4dc18be86aea833df969551a3e9253b700c1affe82f9",
-                                         "size":  52298752
+                                         "sha256":  "2110ef768df6900562fe23279157da52c53cc7ffa7b4df021a6463091f29b737",
+                                         "size":  52311040
                                      }
                                  ]
                },
     "history":  [
+                    {
+                        "version":  "0.2.7",
+                        "build":  10,
+                        "notes":  "Все серверы подписки теперь работают на мобильной версии, фикс виндоус прокси"
+                    },
                     {
                         "version":  "0.2.7",
                         "build":  9,
