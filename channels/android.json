@@ -4,23 +4,28 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.7",
-                   "build":  11,
+                   "build":  12,
                    "title":  "v0.2.7",
-                   "notes":  "Правила маршрутизации: OR вместо AND, свои .dat читаются на мобиле",
+                   "notes":  "Описание серверов, показ транспорта и протокола, патчи xray для пк и мобилки",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.7",
-                   "released_at":  "2026-08-09T04:20:01.2302483Z",
+                   "released_at":  "2026-08-09T21:24:31.1192165Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "apk",
                                          "arch":  "arm64-v8a",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.7/XConnectVPN-0.2.7.apk",
-                                         "sha256":  "279e27a7908a2659982795a9967821c32824f81961971e154111099a73c4f9e2",
-                                         "size":  132265521
+                                         "sha256":  "69cdbaaafccf4cc289bfdb63d3fd5fc0a217c336b1b6156c83d38ad5ec48ea80",
+                                         "size":  106886683
                                      }
                                  ]
                },
     "history":  [
+                    {
+                        "version":  "0.2.7",
+                        "build":  11,
+                        "notes":  "Правила маршрутизации: OR вместо AND, свои .dat читаются на мобиле"
+                    },
                     {
                         "version":  "0.2.7",
                         "build":  10,
@@ -65,11 +70,6 @@
                         "version":  "0.2.6",
                         "build":  4,
                         "notes":  "AD Blocker, утечка IP в логе, перескоки серверов"
-                    },
-                    {
-                        "version":  "0.2.6",
-                        "build":  3,
-                        "notes":  "Правила роутинга, обновление геофайлов, UI"
                     }
                 ]
 }
