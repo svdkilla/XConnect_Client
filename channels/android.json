@@ -4,23 +4,28 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.7",
-                   "build":  12,
+                   "build":  13,
                    "title":  "v0.2.7",
-                   "notes":  "Описание серверов, показ транспорта и протокола, патчи xray для пк и мобилки",
+                   "notes":  "Фиксы: при отключении оставался туннель, интернет пропадал (android) | Добавлено: ASN в статистике, пинг при подключении, парсер роутинга .srs - .dat",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.7",
-                   "released_at":  "2026-08-09T21:24:31.1192165Z",
+                   "released_at":  "2026-08-13T02:35:40.8570887Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "apk",
                                          "arch":  "arm64-v8a",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.7/XConnectVPN-0.2.7.apk",
-                                         "sha256":  "69cdbaaafccf4cc289bfdb63d3fd5fc0a217c336b1b6156c83d38ad5ec48ea80",
-                                         "size":  106886683
+                                         "sha256":  "6ea583d68a8dc52d03b12f214dcb6e79ca0b67f2568425fb83bd7351f858589b",
+                                         "size":  106886947
                                      }
                                  ]
                },
     "history":  [
+                    {
+                        "version":  "0.2.7",
+                        "build":  12,
+                        "notes":  "Описание серверов, показ транспорта и протокола, патчи xray для пк и мобилки"
+                    },
                     {
                         "version":  "0.2.7",
                         "build":  11,
@@ -65,11 +70,6 @@
                         "version":  "0.2.7",
                         "build":  1,
                         "notes":  "Чистое дерево подписки, обновление API, патч ядра"
-                    },
-                    {
-                        "version":  "0.2.6",
-                        "build":  4,
-                        "notes":  "AD Blocker, утечка IP в логе, перескоки серверов"
                     }
                 ]
 }
