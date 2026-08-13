@@ -4,30 +4,35 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.7",
-                   "build":  12,
+                   "build":  13,
                    "title":  "v0.2.7",
-                   "notes":  "Описание серверов, показ транспорта и протокола, патчи xray для пк и мобилки",
+                   "notes":  "Фиксы: при отключении оставался туннель, интернет пропадал (android) | Добавлено: ASN в статистике, пинг при подключении, парсер роутинга .srs - .dat",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.7",
-                   "released_at":  "2026-08-09T21:24:31.1192165Z",
+                   "released_at":  "2026-08-13T02:35:40.8570887Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.7/XConnectVPN-0.2.7.zip",
-                                         "sha256":  "935251ecd66a1af9f2ecdf5632e23876672e9c42d53d33bd6247cdf5675ed7bb",
-                                         "size":  52015188
+                                         "sha256":  "f9822217cca973fd67446e0ee5e8b759ea7e4c977c28d586a282c2a82b1722e1",
+                                         "size":  52017440
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.7/XConnectVPNInstaller-0.2.7.exe",
-                                         "sha256":  "2110ef768df6900562fe23279157da52c53cc7ffa7b4df021a6463091f29b737",
-                                         "size":  52311040
+                                         "sha256":  "692119925f5df0e56bf9b0c18dcd4e67b2514f00f0452bd6d338ed7dc641682e",
+                                         "size":  52313088
                                      }
                                  ]
                },
     "history":  [
+                    {
+                        "version":  "0.2.7",
+                        "build":  12,
+                        "notes":  "Описание серверов, показ транспорта и протокола, патчи xray для пк и мобилки"
+                    },
                     {
                         "version":  "0.2.7",
                         "build":  10,
