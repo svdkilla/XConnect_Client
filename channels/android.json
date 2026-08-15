@@ -3,24 +3,29 @@
     "channel":  "stable",
     "enabled":  true,
     "latest":  {
-                   "version":  "0.2.7",
-                   "build":  13,
-                   "title":  "v0.2.7",
-                   "notes":  "Фиксы: при отключении оставался туннель, интернет пропадал (android) | Добавлено: ASN в статистике, пинг при подключении, парсер роутинга .srs - .dat",
-                   "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.7",
-                   "released_at":  "2026-08-13T02:35:40.8570887Z",
+                   "version":  "0.2.8",
+                   "build":  1,
+                   "title":  "v0.2.8",
+                   "notes":  "Багофикс",
+                   "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.8",
+                   "released_at":  "2026-08-15T01:19:23.6242684Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "apk",
                                          "arch":  "arm64-v8a",
-                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.7/XConnectVPN-0.2.7.apk",
-                                         "sha256":  "6ea583d68a8dc52d03b12f214dcb6e79ca0b67f2568425fb83bd7351f858589b",
-                                         "size":  106886947
+                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.8/XConnectVPN-0.2.8.apk",
+                                         "sha256":  "bb71c9f3c03ad35f376924444f8a8b6dd9645c62aa802cd65f92bcb2bae5adf1",
+                                         "size":  106887167
                                      }
                                  ]
                },
     "history":  [
+                    {
+                        "version":  "0.2.7",
+                        "build":  13,
+                        "notes":  "Фиксы: при отключении оставался туннель, интернет пропадал (android) | Добавлено: ASN в статистике, пинг при подключении, парсер роутинга .srs - .dat"
+                    },
                     {
                         "version":  "0.2.7",
                         "build":  12,
@@ -65,11 +70,6 @@
                         "version":  "0.2.7",
                         "build":  4,
                         "notes":  "Все серверы подписки теперь работают на мобильной версии"
-                    },
-                    {
-                        "version":  "0.2.7",
-                        "build":  1,
-                        "notes":  "Чистое дерево подписки, обновление API, патч ядра"
                     }
                 ]
 }
