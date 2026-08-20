@@ -4,30 +4,35 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.8",
-                   "build":  1,
+                   "build":  2,
                    "title":  "v0.2.8",
-                   "notes":  "Багофикс",
+                   "notes":  "HOT FIX - ОБЯЗАТЕЛЬНОЕ ОБНОВЛЕНИЕ // Новый домен, новое ядро, фиксы прокси и TUN",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.8",
-                   "released_at":  "2026-08-15T01:19:23.6242684Z",
+                   "released_at":  "2026-08-20T10:00:44.4308987Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.8/XConnectVPN-0.2.8.zip",
-                                         "sha256":  "42c506f897dfbdcff0119923abb77b79c655c283eece0b73603fede5b4838275",
-                                         "size":  52019252
+                                         "sha256":  "99ef4e426d88da609203a994a3ff19fa462bf2dbd08ef444d58a5788bec095c2",
+                                         "size":  52042166
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.8/XConnectVPNInstaller-0.2.8.exe",
-                                         "sha256":  "db2fea074656101069aedd8d85295388b8a39751bb0f537099115e5751242979",
-                                         "size":  52315136
+                                         "sha256":  "817f96f246c060f93c72191035ef1aec33a8b2744dff8743f1cc46f60477123a",
+                                         "size":  52338176
                                      }
                                  ]
                },
     "history":  [
+                    {
+                        "version":  "0.2.8",
+                        "build":  1,
+                        "notes":  "Багофикс"
+                    },
                     {
                         "version":  "0.2.7",
                         "build":  13,
@@ -72,11 +77,6 @@
                         "version":  "0.2.6",
                         "build":  2,
                         "notes":  "Пинг стартует мгновенно, починен TUN-режим, уведомления закрываются и показывают таймер в правом верхнем углу, адрес сервера скрыт везде."
-                    },
-                    {
-                        "version":  "0.2.6",
-                        "build":  1,
-                        "notes":  "Растягиваемый список серверов, сворачиваемые категории, проверка соединения одной кнопкой, гайд по реальным границам; исправлено пропадание избранного и восстановление DNS, убраны лаги кабинета"
                     }
                 ]
 }
