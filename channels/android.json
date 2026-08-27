@@ -3,24 +3,29 @@
     "channel":  "stable",
     "enabled":  true,
     "latest":  {
-                   "version":  "0.2.8",
-                   "build":  2,
-                   "title":  "v0.2.8",
-                   "notes":  "HOT FIX - ОБЯЗАТЕЛЬНОЕ ОБНОВЛЕНИЕ // Новый домен, новое ядро, фиксы прокси и TUN",
-                   "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.8",
-                   "released_at":  "2026-08-20T10:00:44.4308987Z",
+                   "version":  "0.2.9",
+                   "build":  1,
+                   "title":  "v0.2.9",
+                   "notes":  "DNS, GeoIP, разделение dns, авто сервера, светофор, офлайн режим",
+                   "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.9",
+                   "released_at":  "2026-08-27T20:33:17.3203927Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "apk",
                                          "arch":  "arm64-v8a",
-                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.8/XConnectVPN-0.2.8.apk",
+                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.9/XConnectVPN-0.2.9.apk",
                                          "sha256":  "82f1f9a81a56dffbb53b88b9e09529786f60badaba3b5429f7a4698d696b9da7",
                                          "size":  106887411
                                      }
                                  ]
                },
     "history":  [
+                    {
+                        "version":  "0.2.8",
+                        "build":  2,
+                        "notes":  "HOT FIX - ОБЯЗАТЕЛЬНОЕ ОБНОВЛЕНИЕ // Новый домен, новое ядро, фиксы прокси и TUN"
+                    },
                     {
                         "version":  "0.2.8",
                         "build":  1,
@@ -64,11 +69,6 @@
                     {
                         "version":  "0.2.7",
                         "build":  6,
-                        "notes":  "Все серверы подписки теперь работают на мобильной версии"
-                    },
-                    {
-                        "version":  "0.2.7",
-                        "build":  5,
                         "notes":  "Все серверы подписки теперь работают на мобильной версии"
                     }
                 ]
