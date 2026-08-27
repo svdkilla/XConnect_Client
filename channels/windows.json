@@ -3,31 +3,36 @@
     "channel":  "stable",
     "enabled":  true,
     "latest":  {
-                   "version":  "0.2.8",
-                   "build":  2,
-                   "title":  "v0.2.8",
-                   "notes":  "HOT FIX - ОБЯЗАТЕЛЬНОЕ ОБНОВЛЕНИЕ // Новый домен, новое ядро, фиксы прокси и TUN",
-                   "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.8",
-                   "released_at":  "2026-08-20T10:00:44.4308987Z",
+                   "version":  "0.2.9",
+                   "build":  1,
+                   "title":  "v0.2.9",
+                   "notes":  "DNS, GeoIP, разделение dns, авто сервера, светофор, офлайн режим",
+                   "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.9",
+                   "released_at":  "2026-08-27T20:33:17.3203927Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
-                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.8/XConnectVPN-0.2.8.zip",
-                                         "sha256":  "99ef4e426d88da609203a994a3ff19fa462bf2dbd08ef444d58a5788bec095c2",
+                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.9/XConnectVPN-0.2.9.zip",
+                                         "sha256":  "69fd24395d87e9ae3bd38eaa6564dc72971ea64dcc5ed730ac61746eeb996b19",
                                          "size":  52042166
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
-                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.8/XConnectVPNInstaller-0.2.8.exe",
-                                         "sha256":  "817f96f246c060f93c72191035ef1aec33a8b2744dff8743f1cc46f60477123a",
+                                         "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.9/XConnectVPNInstaller-0.2.9.exe",
+                                         "sha256":  "6b73cd814a0eaca158bf1c63773deade5178ccae6eb013377e268fc428df4572",
                                          "size":  52338176
                                      }
                                  ]
                },
     "history":  [
+                    {
+                        "version":  "0.2.8",
+                        "build":  2,
+                        "notes":  "HOT FIX - ОБЯЗАТЕЛЬНОЕ ОБНОВЛЕНИЕ // Новый домен, новое ядро, фиксы прокси и TUN"
+                    },
                     {
                         "version":  "0.2.8",
                         "build":  1,
@@ -72,11 +77,6 @@
                         "version":  "0.2.6",
                         "build":  3,
                         "notes":  "Правила роутинга, обновление геофайлов, UI"
-                    },
-                    {
-                        "version":  "0.2.6",
-                        "build":  2,
-                        "notes":  "Пинг стартует мгновенно, починен TUN-режим, уведомления закрываются и показывают таймер в правом верхнем углу, адрес сервера скрыт везде."
                     }
                 ]
 }
