@@ -4,30 +4,35 @@
     "enabled":  true,
     "latest":  {
                    "version":  "0.2.9",
-                   "build":  1,
+                   "build":  2,
                    "title":  "v0.2.9",
                    "notes":  "DNS, GeoIP, разделение dns, авто сервера, светофор, офлайн режим",
                    "release_page":  "https://github.com/svdkilla/XConnect_Client/releases/tag/v0.2.9",
-                   "released_at":  "2026-08-27T20:33:17.3203927Z",
+                   "released_at":  "2026-08-27T22:25:49.0169219Z",
                    "mandatory":  false,
                    "artifacts":  [
                                      {
                                          "type":  "zip",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.9/XConnectVPN-0.2.9.zip",
-                                         "sha256":  "69fd24395d87e9ae3bd38eaa6564dc72971ea64dcc5ed730ac61746eeb996b19",
-                                         "size":  52042166
+                                         "sha256":  "d4176f4739c24f9f23d3b17bda849b470477b1fb6c5b85de0550c4b7826df137",
+                                         "size":  52050545
                                      },
                                      {
                                          "type":  "exe",
                                          "arch":  "x64",
                                          "url":  "https://github.com/svdkilla/XConnect_Client/releases/download/v0.2.9/XConnectVPNInstaller-0.2.9.exe",
-                                         "sha256":  "6b73cd814a0eaca158bf1c63773deade5178ccae6eb013377e268fc428df4572",
-                                         "size":  52338176
+                                         "sha256":  "a77e1c11ec8dc385ddda4b9f673b66359323dc4e785ac88a2bdaa9522319accb",
+                                         "size":  52346368
                                      }
                                  ]
                },
     "history":  [
+                    {
+                        "version":  "0.2.9",
+                        "build":  1,
+                        "notes":  "DNS, GeoIP, разделение dns, авто сервера, светофор, офлайн режим"
+                    },
                     {
                         "version":  "0.2.8",
                         "build":  2,
@@ -72,11 +77,6 @@
                         "version":  "0.2.6",
                         "build":  4,
                         "notes":  "AD Blocker, утечка IP в логе, перескоки серверов"
-                    },
-                    {
-                        "version":  "0.2.6",
-                        "build":  3,
-                        "notes":  "Правила роутинга, обновление геофайлов, UI"
                     }
                 ]
 }
